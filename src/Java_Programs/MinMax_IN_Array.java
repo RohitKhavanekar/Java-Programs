@@ -1,6 +1,6 @@
 package Java_Programs;
 
-public class MinNumber {
+public class MinMax_IN_Array {
 
 	public static void main(String[] args) 
 	{
